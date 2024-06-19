@@ -1,0 +1,4 @@
+#以下链接提供了一个在SHHA数据集上的mae为49.1的权重，可用于测试
+The following link provides a weight with an mae of 49.1 on the SHHA dataset that can be used for testing。
+
+https://www.dropbox.com/scl/fi/40cl1vymod3kwkej44put/ckpt.zip?rlkey=9aiziheyucn222tyug61fb8cx&st=kzpfat32&dl=0

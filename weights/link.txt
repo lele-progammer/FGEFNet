@@ -1,0 +1,10 @@
+#这个目录用于放置网络的预权重。
+This directory is used to place the pre-weights of the network.
+
+#你应该从以下链接中下载：
+This directory is used to place the pre-weights of the network：
+
+https://www.dropbox.com/scl/fi/mq8gmbzul3qejqs1sl77a/weights.zip?rlkey=m5s6lveuhsv7v7zq1amk0ykvs&st=btkiu0d3&dl=0
+
+#然后把它们放到weight目录下.
+and put them under the weight directory
